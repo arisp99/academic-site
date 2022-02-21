@@ -1,0 +1,64 @@
+# The colors for this theme have been taken from Cecilia May's phenomenal
+# Obsidian primary theme. I have included her original description of the theme
+# below:
+#
+# ✦ P R I M A R Y ✦
+# Obsidian Theme by Cecilia May
+# ────────────────────────────────────
+# A combination of Bauhaus, Scandinavian
+# and yellowing magazine pages as palette
+# inspiration—Primary is a theme for people
+# looking for a certain nostalgic warmness.
+# It is toppled with functional pop
+# of red blue yellow colors.
+# The perfect mix of loud and reserved.
+# Playful, reminiscing, productive.
+# ────────────────────────────────────
+# Support her Work!
+# Primary Roadmap: https://tinyurl.com/primary-board
+# Forum Thread: https://forum.obsidian.md/t/primary-theme/26687
+# README: https://github.com/ceciliamay/obsidianmd-theme-primary
+# License: GNU General Public License v3.0
+
+# Theme metadata
+name = "primary"
+
+# Light Theme ----
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#3d3429"
+
+# Menu
+menu_primary = "#f6e7d5"
+menu_text = "#db6057"
+menu_text_active = "#9f78dd"
+menu_title = "#4dadd5"
+
+# Backgrounds
+background = "#f6e7d5"
+home_section_odd = "#e6cfb3"
+home_section_even = "#f6e7d5"
+
+# Links
+link = "#4dadd5"
+link_hover = "#38b27d"
+
+# Dark Theme ----
+# A lot less customization options!
+
+# Color Palette
+# Color      Dark    Light
+# ---------- ------- -------
+# Whiter     #f6e7d5 #faf8f4
+# White      #e6cfb3 #f7f3ee
+# Gray       #3d3429 #cfb696
+# Dark Brown #231e1a #4a341c
+# Black      #1b1613 #2f200e
+# Yellow     #ebc400 #e4ae25
+# Red        #db6057 #df453a
+# Blue       #4dadd5 #2882c3
+# Orange     #df8243 #e28432
+# Green      #38b27d #42b885
+# Violet     #9f78dd #8d6fb3
