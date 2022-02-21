@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Aris Paschalidis # Website name
-baseurl: 'https://academic-demo.netlify.app/' # Website URL
+baseurl: 'https://arispas.com/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
